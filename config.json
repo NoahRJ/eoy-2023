@@ -1,13 +1,14 @@
 {
   "input": "./photos",
   "output": "./static_site",
-  "title": "2023",
+  "title": "Scenes from 2023",
   "sort-albums-by": "start-date",
   "sort-media-by": "date",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
+  "theme-settings": "custom.json",
   "footer": "Noah Anderson 2024",
   "usage-stats": true
 }
